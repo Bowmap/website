@@ -1,0 +1,6 @@
+.obsidian/
+.trash/
+.obsidian.vimrc
+Gemfile.lock
+_site/
+.jekyll-cache/

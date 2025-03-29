@@ -1,0 +1,20 @@
+permalink: /:title
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-wikirefs
+  - jekyll-redirect-from
+  - jekyll-minifier
+favicon: /favicon.ico
+include:
+  - pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+incremental: false
