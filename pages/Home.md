@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Home
+title: Bowmap
 ---
 
 MMORPG Minecraft Server with a sick ass website.
