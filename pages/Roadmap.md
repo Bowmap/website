@@ -11,13 +11,14 @@ title: Roadmap
 
 ## From-Scratch Minecraft Server
 
-Making a joinable Minecraft Server from scratch.
+Making a playable Minecraft Server from scratch.
 
 - [x] TCP Stuff
 - [ ] Version-Agnostic Client Abstraction
 - [ ] Worlds
 - [ ] Items
 - [ ] Entites and Players
+- [ ] Chat
 
 ## Basic Mechanics
 
