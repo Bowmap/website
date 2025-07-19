@@ -14,7 +14,7 @@ title: Roadmap
 Making a playable Minecraft Server from scratch.
 
 - [x] TCP Stuff
-- [-] Version-Agnostic Client Abstraction
+- [ ] * Version-Agnostic Client Abstraction
 - [ ] Worlds
 - [ ] Items
 - [ ] Entites and Players
@@ -25,14 +25,14 @@ Making a playable Minecraft Server from scratch.
 Things Bowmap needs to function.
 
 - [ ] Initial Server State
-- [-] Event sourcing model
+- [ ] * Event sourcing model
 - [ ] Profiles
 
 ## Chapter 1 Content
 
 Exciting Chapter 1 Content, in order of importance for release.
 
-- [-] The Map
+- [ ] * The Map
 - [ ] Fishing
 - [ ] Mobs
 - [ ] Combat
