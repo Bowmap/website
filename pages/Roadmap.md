@@ -16,7 +16,9 @@ Making a playable Minecraft Server from scratch.
 - [x] TCP Stuff
 - [ ] * Version-Agnostic Client Abstraction
 - [ ] Worlds
+- [ ] Chunks
 - [ ] Items
+- [ ] Inventories
 - [ ] Entites and Players
 - [ ] Chat
 
@@ -24,7 +26,7 @@ Making a playable Minecraft Server from scratch.
 
 Things Bowmap needs to function.
 
-- [ ] Initial Server State
+- [ ] Initial Local Server State
 - [ ] * Event sourcing model
 - [ ] Profiles
 
@@ -36,3 +38,7 @@ Exciting Chapter 1 Content, in order of importance for release.
 - [ ] Fishing
 - [ ] Mobs
 - [ ] Combat
+
+## Later
+
+- [ ] Distributed Server and State
