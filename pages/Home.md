@@ -3,7 +3,7 @@ permalink: /
 title: Bowmap
 ---
 
-MMORPG Minecraft Server (In development), made by Grahp ([https://grahp.dev](https://grahp.dev)).
+[[Minecraft Server From Scratch|From Scratch]] MMORPG Minecraft Server (In development), made by Grahp ([https://grahp.dev](https://grahp.dev)).
 
 I made this website so you actually see something when you go to [https://bowmap.net](https://bowmap.net).
 
