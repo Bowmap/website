@@ -11,7 +11,7 @@ title: Roadmap
 
 ## From-Scratch Minecraft Server
 
-Making a playable Minecraft Server from scratch.
+Making [[Minecraft Server From Scratch|a playable Minecraft Server from scratch]].
 
 - [x] TCP Stuff
 - [ ] * Version-Agnostic Client Abstraction
