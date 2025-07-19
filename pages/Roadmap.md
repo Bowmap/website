@@ -22,7 +22,7 @@ Making a playable Minecraft Server from scratch.
 
 ## Basic Mechanics
 
-Things a Bowmap needs to function.
+Things Bowmap needs to function.
 
 - [ ] Initial Server State
 - [-] Event sourcing model
