@@ -9,4 +9,6 @@ I made this website so you actually see something when you go to [https://bowmap
 
 Join the [[Discord]]: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
 
+See the [[Roadmap|Roadmap]].
+
 Chapter 1 Alpha 1 releasing on January 16.
