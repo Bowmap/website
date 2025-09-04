@@ -3,12 +3,12 @@ permalink: /
 title: Bowmap
 ---
 
-[[Minecraft Server From Scratch|From Scratch]] MMORPG Minecraft Server (In development), made by Grahp ([https://grahp.dev](https://grahp.dev)).
+MMORPG Minecraft Server (In development), made by Grahp ([https://grahp.dev](https://grahp.dev)).
 
 I made this website so you actually see something when you go to [https://bowmap.net](https://bowmap.net).
 
-Join the [[Discord]]: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
+Join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
 
-See the [[Roadmap|Roadmap]].
+Chapter 1 Alpha 1 is releasing on January 16.
 
-Chapter 1 Alpha 1 releasing on January 16.
+For more info about Bowmap's development, see my website. ([https://grahp.dev/bowmap](https://grahp.dev/bowmap))
