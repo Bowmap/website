@@ -3,12 +3,13 @@ permalink: /
 title: Bowmap
 ---
 
-MMORPG Minecraft Server (In development), made by Grahp ([https://grahp.dev](https://grahp.dev)).
+Bowmap is an MMORPG Minecraft Server by Grahp ([https://grahp.dev](https://grahp.dev))!
+
+It is currently in development - the first demo will be releasing on January 17, 2026!
 
 I made this website so you actually see something when you go to [https://bowmap.net](https://bowmap.net).
 
-Join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
+You should join the Discord: [https://discord.gg/EVA5np6Dd6](https://discord.gg/EVA5np6Dd6)
 
-Chapter 1 Alpha 1 is releasing on January 16.
+For more info about Bowmap's development, see my website: [https://grahp.dev/bowmap](https://grahp.dev/bowmap)
 
-For more info about Bowmap's development, see my website. ([https://grahp.dev/bowmap](https://grahp.dev/bowmap))
